@@ -1,0 +1,20 @@
+{
+    "name": "jquery-gantt",
+    "main": [
+      "js/jquery.fn.gantt.js",
+      "css/style.css"
+    ],
+    "version": "1.1.0",
+    "homepage": "http://taitems.github.io/jQuery.Gantt/",
+    "description": "jQuery Gantt Chart",
+    "keywords": [
+        "jquery",
+        "gantt",
+        "bootstrap"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "tests"
+    ]
+}
